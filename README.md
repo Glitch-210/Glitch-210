@@ -26,15 +26,18 @@ Here are some of the projects I've been working on:
 
 - **Languages**: Python, HTML, Css, JavaScript, Java, PHP
 - **Frameworks**: Tkinter
-- (I am just a beginner)
+- **I am just a beginner**
 
 ## Get in Touch
 
 Feel free to reach out to me through the following channels:
 
-- **Email**: [Email](mailto:your-email@mustafakhericha89.com)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/mustafa-khericha)
+- **Email**: [mustafakhericha89](mailto:your-email@mustafakhericha89.com)
+- **LinkedIn**: [mustafa-khericha](https://linkedin.com/in/mustafa-khericha)
 
-## License
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Glitch-210/30-nites-of-code)  
+  ![@Glitch-210 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Glitch-210)
+
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
