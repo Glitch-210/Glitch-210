@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Glitch-210! 👋
 
-<!--
-**Glitch-210/Glitch-210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here you'll find a collection of my projects, contributions, and collaborations.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: Glitch-210
+- **Date**: 2025-02-24
+- **Interests**: Coding, Technology, Open Source, AI, Machine Learning
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+1. **Internet Speed Test**
+   - **Description**: A small project of internet speed test using GUI.
+   - **Languages**: Tkinter,Python,Speed Test.
+   - **Link**: [Click_Me](https://glitch-210.github.io/Internet_speed_test/)
+
+2. **Qr-Code**
+   - **Description**: A free webpage to create or download a QR-Code.
+   - **Languages**: Html,Css,Javascript.
+   - **Link**: [QR-Code](https://glitch-210.github.io/QR-Code/)
+
+## Skills
+
+- **Languages**: Python, HTML, Css, JavaScript, Java, PHP
+- **Frameworks**: Tkinter
+- (I am just a beginner)
+
+## Get in Touch
+
+Feel free to reach out to me through the following channels:
+
+- **Email**: [Email](mailto:your-email@mustafakhericha89.com)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/mustafa-khericha)
+
+## License
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
