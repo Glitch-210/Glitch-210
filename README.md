@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## Projects
 
-Here are some of the projects I've been working on:
+Here are some of the projects I did:
 
 1. **Internet Speed Test**
    - **Description**: A small project of internet speed test using GUI.
@@ -24,9 +24,10 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- **Languages**: Python, HTML, Css, JavaScript, Java, PHP
+- **Languages**: Python, HTML, Css, JavaScript, Java, PHP, MySql
 - **Frameworks**: Tkinter
 - **I am just a beginner**
+- Currently i am working on data analytics.
 
 ## Get in Touch
 
